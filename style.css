@@ -1,0 +1,171 @@
+#nodecoration{
+	color: red;
+	text-decoration: none;
+}
+#overline{
+	color: red;
+	text-decoration: overline;
+}
+h1{
+	color: red;
+	text-transform: capitalize; 
+}
+.linethrow{
+	color: red;
+	text-decoration: line-through;
+}
+#underline{
+	color: red;
+	text-decoration: underline;
+
+}
+.lowercase{
+	color: red;
+	text-transform: lowercase;
+	
+}/*
+p.line-height{
+	letter-spacing: 5px;
+	line-height: 15px;
+}
+.shadow{
+	text-shadow: 2px 3px  #1100f3;
+}
+/*
+*{
+	/*font-family: "Time new ";
+	font-family: 'Indie Flower', cursive;
+}*/
+.italic{
+	text-align: justify-all;
+	/*
+	letter-spacing: 20px;
+	line-height: 55px;
+	font-size: 10pt;
+	font-weight: 150;*/
+	color: green;
+	font-style: italic;
+	word-spacing: 100px;
+}
+#pixel{
+	background: red ;
+	border: 1px;
+}
+
+#div1{
+	width: 600px;
+	height: 400px;
+
+	border-top: 18px solid red;
+	border-bottom:  25px dotted green;
+	border-left: 15px dashed blue;
+	border-right: 20px double yellow;
+	font-size: 30px;
+	margin: 40px;
+	padding: 50px;
+	float: left;	
+
+}
+#r{
+	width: 600px;
+	height: 400px;
+
+	border-top: 18px solid red;
+	border-bottom:  25px dotted green;
+	border-left: 15px dashed blue;
+	border-right: 20px double yellow;
+	font-size: 30px;
+	margin: 40px;
+	padding: 50px;	
+	float: right;
+}
+#unfloted{
+	clear: both;
+}
+#nav{
+	
+	background-color: green;
+	word-spacing: 50px;
+	text-transform: uppercase;
+	
+
+}
+a{
+	text-decoration: none;
+	font-size: 50px;
+	color: white;
+	
+}
+a:hover{
+	
+	background-color: white;
+	color: black;
+	
+}
+a:active{
+	color: blue;
+	background-color: black;
+}
+/*
+.container{
+	background-color: red;
+	width: 800px;
+	border: 20px solid	red;
+	padding: 20px;
+	margin: 55px;
+}*/
+#first{
+	border: 5px solid black;
+	margin:10px;
+}
+p{
+	background-color: green;
+	width: 350px;	 
+	border: 5px solid red;
+	margin: 10px;
+	padding: 10px;
+}
+#large{
+	float: left;
+	font-size: 50px;
+	color: gold;
+
+}
+
+#p1{
+	float: left;
+	
+}
+#p2{
+	float: left;
+	
+}
+#p3{
+	float: left;
+	clear: both;
+	
+}
+#p4{
+	float: left;
+	display: none;
+	visibility: hidden;
+}
+#p5{
+	float: left;
+
+}
+#a{
+	position: absolute;
+	top: 250px;
+	left: 500px;
+	z-index: 2;
+	opacity: 0.6;
+
+}
+#b{
+	position: absolute;
+	top: 150px;
+	left: 500px;
+	z-index: 1;
+	opacity: 0.5;
+}

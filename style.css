@@ -113,7 +113,7 @@ a:active{
 	border: 20px solid	red;
 	padding: 20px;
 	margin: 55px;
-}*/
+}
 #first{
 	border: 5px solid black;
 	margin:10px;
@@ -129,7 +129,6 @@ p{
 	float: left;
 	font-size: 50px;
 	color: gold;
-
 }
 
 #p1{
@@ -147,7 +146,7 @@ p{
 }
 #p4{
 	float: left;
-	display: none;
+	/*display: none;
 	visibility: hidden;
 }
 #p5{
@@ -168,4 +167,28 @@ p{
 	left: 500px;
 	z-index: 1;
 	opacity: 0.5;
+}*/
+#firstdiv{
+	background-color: red;
+	padding: 5px;
+	display: inline-block;
+
+}
+
+#seconddiv{
+	background-color: blue;
+	padding: 5px;
+	display: inline-block;
+}
+p{
+	background-color: green;
+	width: 350px;	 
+	border: 5px solid black;
+	margin: 10px;
+	padding: 10px;
+}
+#large{
+	float: left;
+	font-size: 50px;
+	color: gold;
 }
